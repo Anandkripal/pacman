@@ -34,7 +34,7 @@ The project implements player movement, maze navigation, pellet collection, scor
 
 ## Project Structure
 
-
+```text
 pacman/
 ├── build.gradle
 └── src/
